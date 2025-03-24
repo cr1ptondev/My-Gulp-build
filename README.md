@@ -52,4 +52,4 @@ This build is reassigned for a more convenient and most importantly readable cod
 ### :email:Contact
 ---
 If you have any questions about the assembly or have any problems, please contact me and I will help you.
-weasfear@mail.ru
+weasfear@gmail.com
